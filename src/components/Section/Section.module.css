@@ -1,0 +1,19 @@
+.feedback {
+  background-color: rgb(216, 244, 238);
+  margin: 40px auto 0;
+  padding: 30px;
+  width: 300px;
+  border-radius: 5px;
+  box-shadow: rgb(0 0 0 / 20%) 0px 2px 4px -1px,
+    rgb(0 0 0 / 14%) 0px 4px 5px 0px, rgb(0 0 0 / 12%) 0px 1px 10px 0px;
+}
+.feedback__title {
+  font-size: 30px;
+  font-weight: 500;
+  margin-bottom: 25px;
+}
+.title {
+  font-size: 28px;
+  font-weight: 500;
+  margin-bottom: 25px;
+}
